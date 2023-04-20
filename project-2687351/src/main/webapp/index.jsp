@@ -13,7 +13,7 @@
 <nav></nav>
 <br><br>
 <section>
-<h1 style="color: lightslategray"><%= "Registry" %>
+<h1 style="color: lightslategray"><%= "Registrar" %>
 </h1>
 <br/>
 <form >
