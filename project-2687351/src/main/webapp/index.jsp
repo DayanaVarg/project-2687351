@@ -12,7 +12,7 @@
 <header></header>
 <nav></nav>
 <br><br>
-<section>
+<section style="margin-left: -20%">
 <h1 style="color: lightslategray"><%= "Registrar" %>
 </h1>
 <br/>
