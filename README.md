@@ -4,6 +4,7 @@ Proyecto diseñado y creado especialmente para la elaboracion de trabajos y acti
 ## Tabla de Contenidos
 1. [Estructura](#estructura)
 2. [Dependencias](#dependencias)
+3. [Contacto](#contacto)
 ### Estructura
 ***
 En principio utilizamos la etiqueta <!DOCTYPE html> para dejar en claro que el arcrivo a continuacion es un tipo documento, y nos permite identificar en el navegador que tipo de html es. <html lang="es"> Con ella especificamos el leguaje de nuestra interfaz, a continuación sigue nuestra estructura HTML, dentro de la etiqueta <head> colocamos las etiquetas: <meta charset> esta nos aytudará a aceptar todo tipo de caracteres especiales, el sigyuente <meta> nos brinda la opción y caraterística de que nuestra interfaz sea responsive. <title> esta eqieuta le dara el título a nuestra ventana de navegación,  y por último colocamos un <link> el cual nos da la conexióon y nos permite acceder a las bibliotecas de BOOSTRAP.
