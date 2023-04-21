@@ -4,20 +4,14 @@ Proyecto diseñado y creado especialmente para la elaboracion de trabajos y acti
 ## Tabla de Contenidos
 1. [Info-General](#info-general)
 2. [Tecnologías](#tecnologias)
-3. [Instalación](#instalación)
 ### Info-General
 ***
-Proyecto diseñado y creado especialmente para la elaboracion de trabajos y actividades realizadas en clase.
+En el siguiente proyecto se encintrará el material trabajo en clase, por el momento se podrá observar en el archivo "index.sp" un formulario de resgistr solicitado con su respectiva estructura de HTML junto con los estilos deseado en tal momento.
 ### Tecnologías
 ***
 [Java JDK]Versión 17.
 [HTML5]
 [BOOTSTRAP] Versión 5.3
-### Instalación
-***
-```
-$ clonar git (https://github.com/DayanaVarg/project-2687351.git)
-```
-```
-$ Descargar proyecto.
-```
+[IntelliJ IDEA] 
+
+
