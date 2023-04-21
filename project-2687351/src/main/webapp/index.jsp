@@ -29,7 +29,7 @@
            pattern="{60}" > <br><br>
     <label class="form-label" for="password" style="color: cadetblue">Contraseña</label><br>
     <input type="password" id="password" name="password" style="width: 250px;" placeholder="Ingrese su contraseña" required
-           pattern=""><br><br>
+           pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"><br><br>
     <button type="submit" class="btn btn-outline-dark" style="margin-left: 13%">Enviar</button>
     </div>
 </form>
