@@ -13,10 +13,10 @@ Dentro de la etiquete <body> colocamos:
   
 ### Dependencias
 ***
-[JAKARTA EE VERSION 6.00]
+[JAKARTA EE VERSION]
 [IntelliJ IDEA 2023.1] 
   
-###Contacto
+### Contacto
 ***
 davargas777@soy.sena.edu.co
 
