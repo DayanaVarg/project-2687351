@@ -13,3 +13,6 @@ Proyecto diseñado y creado especialmente para la elaboracion de trabajos y acti
 ```
 $ clonar git (https://github.com/DayanaVarg/project-2687351.git)
 ```
+```
+$ Descargar proyecto.
+```
